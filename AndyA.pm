@@ -1,6 +1,6 @@
 package Bundle::AndyA;
 
-$VERSION = '1.000';
+$VERSION = '1.01';
 
 1;
 
@@ -18,45 +18,61 @@ C<perl -MCPAN -e 'install Bundle::AndyA'>
 
 App::Ack
 
+AppConfig::Std
+
+Bundle::CPANxxl
+
 Bundle::LWP
-
-CGI
-
-CGI::Carp
-
-CGI::Cookie
-
-CGI::Fast
-
-CGI::Pretty
-
-CGI::Push
 
 CGI::Simple
 
-CPAN::Reporter
+Carp
 
-Class::Accessor
+Config::Tiny
 
-Class::Std
-
-Config::General
+Crypt::PerfectPaperPasswords
 
 Cwd
 
-DBI
-
-Data::Dumper::Simple
+Data::Dumper
 
 Data::Hexdumper
 
+Devel::CheckLib
+
+Devel::CheckOS
+
 Devel::Cover
 
-Devel::Profiler
+Devel::Cycle
 
-Digest
+Devel::Ditto
+
+Devel::Leak::Object
+
+Devel::NYTProf
+
+Devel::Peek
+
+Devel::Size
+
+Devel::StackTrace
+
+Devel::Symdump
+
+Devel::TraceLoad
+
+Devel::Unplug
 
 Digest::MD5
+
+Email::Address
+
+Email::Send
+
+Fcntl
+
+File::Basename
 
 File::Copy
 
@@ -66,115 +82,153 @@ File::Find
 
 File::Find::Parallel
 
-File::HomeDir
-
 File::Monitor
 
-File::Next
+File::Path
 
 File::Slurp
 
-File::TinyLock
+File::Spec
+
+File::Temp
 
 File::Which
 
 File::chdir
 
-File::pushd
+GD
+
+Getopt::Long
+
+Getopt::Std
 
 HTML::Tiny
 
 HTML::TokeParser
 
-HTML::TokeParser::Simple
+HTTP::Date
 
-IO::Poll
+HTTP::Status
 
-IO::Select
+IO::Handle
 
-Inline
+IPC::Open2
 
-Lingua::EN::Inflect
+IPC::Open3
+
+IPC::Run
+
+IPC::Run3
+
+IPC::ShareLite
+
+IPC::System::Simple
+
+JSON
+
+JavaScript::Beautifier
+
+LWP::Simple
+
+LWP::UserAgent
+
+Lingua::EN::Numbers
+
+List::MoreUtils
 
 List::Util
 
-Log::Log4perl
-
 MIME::Base64
 
-Mail::Internet
-
-Mail::Mailer
-
 Mail::Send
-
-Mail::Util
 
 Memoize
 
 Module::Build
 
-Module::CPANTS::Analyse
+Module::CoreList
+
+Module::Info
 
 Module::Starter::PBP
+
+Moose
+
+Net::FTP
+
+Net::GitHub
+
+Net::TcpDumpLog
+
+Net::Twitter
+
+Net::XMPP
+
+POSIX
+
+PPI
+
+PPI::Find
+
+Parallel::Iterator
 
 Perl::Tidy
 
 Perl::Version
 
-Pod::Checker
+PerlIO::gzip
 
 Pod::Coverage
 
-PPI
+Pod::Usage
+
+RDF::Simple::Parser
 
 Regexp::Common
 
-TAP::Parser
+Set::IntSpan::Fast
 
-Template
+Set::IntSpan::Fast::XS
 
-Test::Class
+Storable
+
+Sys::Hostname
+
+Term::ANSIColor
 
 Test::Deep
 
 Test::Differences
 
-Test::Exception
-
 Test::Harness
 
 Test::MockModule
 
-Test::NoWarnings
+Test::MockObject
 
-Test::Pod
+Text::Autoformat
 
-Test::Pod::Coverage
+Text::ParseWords
 
-Test::Reporter
+Text::Wrap
 
-Test::WWW::Mechanize
+TextMate::JumpTo
 
-Test::XML
+Time::HiRes
 
-WWW::Mechanize
+Time::Local
+
+Time::ParseDate
+
+URI::file
+
+WWW::Plurk
 
 XML::Descent
 
-XML::Parser
-
-XML::SemanticDiff
-
-XML::Simple
-
-XML::TokeParser
-
 YAML
 
-YAML::Syck
-
-YAML::Tiny
+attributes
 
 =head1 DESCRIPTION
 
