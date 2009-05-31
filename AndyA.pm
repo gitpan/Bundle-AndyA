@@ -1,6 +1,6 @@
 package Bundle::AndyA;
 
-$VERSION = '1.01';
+$VERSION = '1.02';
 
 1;
 
@@ -221,6 +221,8 @@ Time::Local
 Time::ParseDate
 
 URI::file
+
+URI::geo
 
 WWW::Plurk
 
