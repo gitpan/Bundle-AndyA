@@ -1,6 +1,6 @@
 package Bundle::AndyA;
 
-$VERSION = '1.02';
+$VERSION = '1.03';
 
 1;
 
@@ -66,6 +66,8 @@ Devel::Unplug
 
 Digest::MD5
 
+Digest::MD6
+
 Email::Address
 
 Email::Send
@@ -111,6 +113,8 @@ HTTP::Date
 HTTP::Status
 
 IO::Handle
+
+IO::Prompt
 
 IPC::Open2
 
