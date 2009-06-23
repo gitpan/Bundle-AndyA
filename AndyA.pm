@@ -1,6 +1,6 @@
 package Bundle::AndyA;
 
-$VERSION = '1.03';
+$VERSION = '1.04';
 
 1;
 
@@ -158,6 +158,8 @@ Module::Starter::PBP
 
 Moose
 
+Net::DNS
+
 Net::FTP
 
 Net::GitHub
@@ -185,6 +187,8 @@ PerlIO::gzip
 Pod::Coverage
 
 Pod::Usage
+
+Proc::ProcessTable
 
 RDF::Simple::Parser
 
@@ -235,6 +239,8 @@ XML::Descent
 YAML
 
 attributes
+
+latest
 
 =head1 DESCRIPTION
 
