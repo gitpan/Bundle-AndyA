@@ -1,6 +1,6 @@
 package Bundle::AndyA;
 
-$VERSION = '1.04';
+$VERSION = '1.05';
 
 1;
 
@@ -53,6 +53,8 @@ Devel::Leak::Object
 Devel::NYTProf
 
 Devel::Peek
+
+Devel::REPL
 
 Devel::Size
 
