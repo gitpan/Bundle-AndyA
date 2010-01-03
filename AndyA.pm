@@ -1,6 +1,6 @@
 package Bundle::AndyA;
 
-$VERSION = '1.07';
+$VERSION = '1.09';
 
 1;
 
@@ -179,6 +179,8 @@ PPI
 PPI::Find
 
 Parallel::Iterator
+
+Path::Class
 
 Perl::Tidy
 
