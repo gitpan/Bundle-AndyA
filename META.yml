@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Bundle-AndyA
-version:            1.10
+version:            1.11
 abstract:           ~
 author:
     - Andy Armstrong <andy@hexten.net>

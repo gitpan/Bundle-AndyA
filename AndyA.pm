@@ -1,6 +1,6 @@
 package Bundle::AndyA;
 
-$VERSION = '1.10';
+$VERSION = '1.11';
 
 1;
 
@@ -182,8 +182,6 @@ Parallel::Iterator
 
 Path::Class
 
-Path::Class::Each
-
 Perl::Tidy
 
 Perl::Version
@@ -241,6 +239,8 @@ URI::geo
 WWW::Plurk
 
 XML::Descent
+
+XML::Twig
 
 YAML
 
