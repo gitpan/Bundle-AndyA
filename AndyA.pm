@@ -1,6 +1,6 @@
 package Bundle::AndyA;
 
-$VERSION = '1.11';
+$VERSION = '1.12';
 
 1;
 
@@ -69,6 +69,8 @@ Devel::Unplug
 Digest::MD5
 
 Digest::MD6
+
+Dist::Zilla
 
 Email::Address
 
@@ -182,6 +184,8 @@ Parallel::Iterator
 
 Path::Class
 
+Path::Class::Each
+
 Perl::Tidy
 
 Perl::Version
@@ -239,8 +243,6 @@ URI::geo
 WWW::Plurk
 
 XML::Descent
-
-XML::Twig
 
 YAML
 
